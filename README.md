@@ -15,7 +15,7 @@
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anurag-tummapudi)  
-- ✉️ Reach me at: **anuragstudy24@gmail.com**  
+- ✉️ Reach me at: **tummapudianurag@gmail.com**  
 
 > "Code, Create, Innovate!" – Ready to make an impact! 🚀🔥  
 
