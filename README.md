@@ -1,21 +1,65 @@
-# 👋 Hey there, I'm Anurag Tummapudi!  
+# Anurag Tummapudi
 
-🚀 **Aspiring AI & Full-Stack Developer** | 🔍 Exploring Machine Learning | 🎮 Web Enthusiast  
+Building toward the future of AI systems, voice interfaces, and intelligent experiences.
 
-## 🔥 About Me  
-- 🎓 **CSE (AIFT) Student** with a passion for **AI & Software Development**  
-- 🏆 **Interested in participating Hackathons** – always up for coding challenges!  
-- 💻 **Tech Stack:** Python, JavaScript, C++, SQL, React, Node.js, still adding up...... 
-- ⚡ Love building **cool projects** that solve real-world problems!  
+## About Me
 
-## 🚧 Current Focus  
-- 🤖 Learning **Deep Learning & ML**  
-- 🌐 Exploring **Web3 & Blockchain**  
-- 📱 Building innovative **apps & tools**  
+I'm a CSE (AI & Future Technologies) student at SRM University AP, focused on AI systems, backend architecture, and building future-focused products.
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/anurag-tummapudi)  
-- ✉️ Reach me at: **tummapudianurag@gmail.com**  
+Currently interested in:
 
-> "Code, Create, Innovate!" – Ready to make an impact! 🚀🔥  
+* AI Agents
+* Voice AI
+* System Design
+* Full-Stack Development
+* Intelligent Interfaces
+* Startup & Product Building
 
+I enjoy building projects that combine:
+
+> AI × systems × product thinking
+
+---
+
+## Tech Stack
+
+**Languages**
+
+* JavaScript / TypeScript
+* Python
+* Java
+* C
+
+**Frontend**
+
+* React
+* Next.js
+* Tailwind CSS
+
+**Backend**
+
+* Node.js
+* Express.js
+* MongoDB
+
+---
+
+## Currently Learning
+
+* AI Agent Architectures
+* Backend Systems
+* Scalable APIs
+* Voice AI
+* System Design
+
+---
+
+## Connect
+
+* LinkedIn: [www.linkedin.com/in/anuragtummapudi](http://www.linkedin.com/in/anuragtummapudi)
+* Email: [anuragtummapudi@gmail.com](mailto:anuragtummapudi@gmail.com)
+
+```txt
+building systems.
+exploring intelligence.
+```
