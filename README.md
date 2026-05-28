@@ -2,26 +2,42 @@
 
 AI Engineer building real-time voice agents, agentic AI systems, and scalable intelligent products.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/anuragtummapudi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://anuragtummapudi.in">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:anuragtummapudi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## About Me
 
-I'm a Computer Science student specializing in AI & Future Technologies at SRM University AP, focused on building production-ready AI systems and modern full-stack applications.
+I'm a Computer Science student specializing in AI & Future Technologies at SRM University AP, focused on building production-ready AI systems and scalable backend infrastructure.
 
 My interests lie at the intersection of:
 
 > AI × systems engineering × product building
 
-I enjoy working on real-time AI experiences, scalable backend architectures, conversational systems, and intelligent workflows powered by LLMs.
+I enjoy building real-time AI experiences, conversational systems, intelligent workflows, and modern full-stack applications powered by LLMs.
 
-Currently building and experimenting with:
+---
 
-* AI Agents
-* Voice AI Systems
-* Agentic Workflows
-* LLM Applications
-* Scalable Backend Infrastructure
-* Real-time Streaming Architectures
+## Current Focus
+
+```txt
+Agentic AI Systems
+Voice AI & Realtime Streaming
+LLM Engineering
+AI Infrastructure
+System Design
+Scalable Backend Architectures
+```
 
 ---
 
@@ -29,42 +45,30 @@ Currently building and experimenting with:
 
 ### Languages
 
-```txt
-Python • TypeScript • JavaScript • Java • C++ • SQL • Solidity
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,solidity" />
+</p>
 
 ### AI / GenAI
 
 ```txt
-LLMs • RAG Pipelines • AI Agents • Conversational AI • Prompt Engineering
-Embeddings • Vector Search • NLP • Tool Calling • Function Calling
+LLMs • RAG Pipelines • AI Agents • Conversational AI
+Prompt Engineering • Embeddings • Vector Search • NLP
+Tool Calling • Function Calling
 ```
 
-### Frameworks & Libraries
+### Frameworks & Technologies
 
-```txt
-LangChain • LangGraph • LlamaIndex • FastAPI • React • Next.js
-Node.js • Express.js • Tailwind CSS • Three.js
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb,mysql,redis,docker,aws,tailwind,git,github,vercel" />
+</p>
 
 ### AI & Developer Tools
 
 ```txt
-OpenAI • Gemini • HuggingFace • Pinecone • FAISS • ChromaDB
-LiveKit • Postman • GitHub Actions
-```
-
-### Databases & Infrastructure
-
-```txt
-MongoDB • MySQL • Redis • Docker • AWS • Vercel • Render
-CI/CD • REST APIs • GraphQL • Streaming Systems
-```
-
-### Web3
-
-```txt
-Solidity • Hardhat • IPFS • Hedera • MetaMask
+LangChain • LangGraph • LlamaIndex • HuggingFace
+OpenAI • Gemini • Pinecone • FAISS • ChromaDB
+LiveKit • GraphQL • REST APIs • GitHub Actions
 ```
 
 ---
@@ -75,30 +79,29 @@ Solidity • Hardhat • IPFS • Hedera • MetaMask
 * Developed streaming STT → LLM → TTS pipelines with retrieval-grounded responses
 * Built scalable AI-powered full-stack systems using React, Node.js, Express, and MongoDB
 * Worked on intelligent document parsing, summarization, and automation systems
-* Built products used by 10K+ users with optimized backend and deployment workflows
+* Built products serving 10K+ users with optimized backend and deployment workflows
 * Won multiple hackathons across AI, systems engineering, and Web3 tracks
 
 ---
 
-## Current Focus
+## GitHub Stats
 
-```txt
-Agentic AI Systems
-Voice Interfaces
-Realtime AI Infrastructure
-LLM Engineering
-System Design
-Scalable APIs
-AI-native Product Experiences
-```
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragaicoder&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragaicoder&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragaicoder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## Connect
 
-* LinkedIn → [www.linkedin.com/in/anuragtummapudi](http://www.linkedin.com/in/anuragtummapudi)
-* Portfolio → your-portfolio-link
-* Email → [anuragaicoder@gmail.com](mailto:anuragaicoder@gmail.com)
+* Portfolio → https://anuragtummapudi.in
+* LinkedIn → https://www.linkedin.com/in/anuragtummapudi
+* Email → [anuragtummapudi@gmail.com](mailto:anuragtummapudi@gmail.com)
 
 ```txt
 building intelligent systems.
