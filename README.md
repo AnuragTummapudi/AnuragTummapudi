@@ -1,95 +1,64 @@
-# Anurag Tummapudi
+<div align="center">
 
-AI Engineer building real-time voice agents, agentic AI systems, and scalable intelligent products.
+```text
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anuragtummapudi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://anuragtummapudi.in">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:anuragtummapudi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+                    ....::...
+                 .-=++**###***+-:
+              .:=***##%%%%%%%%%%#=.
+             .+#%@@@@@@@@@@@@@@%%@#=.
+             =@@@%###%@@@@@@@@@@@@@%-
+             +@@*..:-==++++++++*#@@@+
+             +@#:-+#%%#*===++=--=%@@:
+            .+%:-*#%@@@#+*#@@@%#+#@*
+           .++=..:=*#*+-.:*%@@#*+*@:
+           .*+-:::-=+-..:.:===-::+*-
+           .-==+*#%%**###*++#+=--+*:
+            .:-**%@%#**#####%@#*++=
+              :**##++=====+*#%#*=-.
+               +#**+=+*##*+=+#*-
+             .-=##*+++***+=+**:
+            .*%+*############=
+          .-*#:+*##*##%##***+#+--:.
+     ..-=+*#%# -*#######***#-*%#%@%*=-..
+..:-+#%%@@#%%%. -#########@*.#%##%@@@@%*+=--::
+*##%@@@@@@%%%@:..-#%####%@#..#%%%%%@@@@@@%%###
+%%@@@@@@@@%%@@*::..-*####*.:=#%%%%%%@@@@@@@@%%
+@@@@@@@@@@@@@@* .....-*#*..--%@%%%%%%@@@@@@@@@
+@@@@@@@@@@@@@@%. . .  -*:.:::#@@%%%%@@@@@@@@@@
+@@@@@@@@@@@@@@@-      ....:::%@@@@@%@@@@@@@@@@
+@@@@@@@@@@@@@@@+.    .......:%@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@#.       ....:%@@@@@@@@@@@@@@@@
 
----
+anuragtummapudi
+──────────────────────────────────────────────────────────────────────────────
+OS: ............................. macOS, Linux
+Host: ........................... MacBook Air M4
+IDE: ............................ VS Code, Codex, Claude Code
 
-## About Me
+Languages.Programming: ......... C++, Java, Python, JavaScript, TypeScript, SQL
+AI.ML: .......................... PyTorch, RAG, Vector Search, STT/TTS,
+                                  LLM APIs, Federated Learning
 
-I'm a Computer Science student specializing in AI & Future Technologies at SRM University AP, focused on building production-ready AI systems and scalable backend infrastructure.
+Hobbies.Software: .............. AI Agents, Building Products
+Hobbies.Other: ................. Chess, Hackathons
 
-My interests lie at the intersection of:
+─ Contact ─────────────────────────────────────────────────────────────────────
+Email: .......................... anuragtummapudi@gmail.com
+LinkedIn: ....................... linkedin.com/in/anuragtummapudi
+GitHub: ......................... github.com/AnuragTummapudi
+Portfolio: ...................... anuragtummapudi.in
 
-> AI × systems engineering × product building
+─ Achievements ────────────────────────────────────────────────────────────────
+Hackathon Podiums: .............. 6× 🏆
+Latest: ......................... SysML 2.0 Runner-Up @ IISc Bangalore
 
-I enjoy building real-time AI experiences, conversational systems, intelligent workflows, and modern full-stack applications powered by LLMs.
-
----
-
-## Current Focus
-
-```txt
-Agentic AI Systems
-Voice AI & Realtime Streaming
-LLM Engineering
-AI Infrastructure
-System Design
-Scalable Backend Architectures
+─ GitHub Stats ────────────────────────────────────────────────────────────────
+<!-- STATS_START -->
+Repos: .......................... Updating automatically
+Commits: ........................ Updating automatically
+Stars: .......................... Updating automatically
+Followers: ...................... Updating automatically
+<!-- STATS_END -->
 ```
 
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,solidity" />
-</p>
-
-### AI / GenAI
-
-```txt
-LLMs • RAG Pipelines • AI Agents • Conversational AI
-Prompt Engineering • Embeddings • Vector Search • NLP
-Tool Calling • Function Calling
-```
-
-### Frameworks & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb,mysql,redis,docker,aws,tailwind,git,github,vercel" />
-</p>
-
-### AI & Developer Tools
-
-```txt
-LangChain • LangGraph • LlamaIndex • HuggingFace
-OpenAI • Gemini • Pinecone • FAISS • ChromaDB
-LiveKit • GraphQL • REST APIs • GitHub Actions
-```
-
----
-
-## Experience Highlights
-
-* Built real-time conversational voice agents using LiveKit and LLM orchestration workflows
-* Developed streaming STT → LLM → TTS pipelines with retrieval-grounded responses
-* Built scalable AI-powered full-stack systems using React, Node.js, Express, and MongoDB
-* Worked on intelligent document parsing, summarization, and automation systems
-* Built products serving 10K+ users with optimized backend and deployment workflows
-* Won multiple hackathons across AI, systems engineering, and Web3 tracks
-
-## Connect
-
-* Portfolio → https://anuragtummapudi.in
-* LinkedIn → https://www.linkedin.com/in/anuragtummapudi
-* Email → [anuragtummapudi@gmail.com](mailto:anuragtummapudi@gmail.com)
-
-```txt
-building intelligent systems.
-engineering realtime AI experiences.
-exploring the future of human-computer interaction.
-```
+</div>
