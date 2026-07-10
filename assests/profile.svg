@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <style>
+    .bg { fill: #0d1117; }
+    .main { font: 18px "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; fill: #c9d1d9; }
+    .ascii { font: 14px "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; fill: #c9d1d9; }
+    .key { fill: #d29922; }
+    .value { fill: #a5d6ff; }
+    .muted { fill: #8b949e; }
+    .green { fill: #3fb950; }
+    .red { fill: #f85149; }
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #ffffff; }
+      .main,.ascii { fill: #24292f; }
+      .muted { fill: #57606a; }
+      .value { fill: #0969da; }
+      .key { fill: #9a6700; }
+    }
+  </style>
+  <rect class="bg" width="1200" height="620" rx="18"/>
+  <text class="ascii" xml:space="preserve" x="35" y="42">
+    <tspan x="35" dy="0">..........................................</tspan>
+    <tspan x="35" dy="17">...................::-==---:..............</tspan>
+    <tspan x="35" dy="17">...............:=*#*#########*=:..........</tspan>
+    <tspan x="35" dy="17">.............-+****###%%%%%%%%%%+.........</tspan>
+    <tspan x="35" dy="17">...........:*####%@@@@@@@@@@@@@@@*:.......</tspan>
+    <tspan x="35" dy="17">..........=*%@@@@@@@@@@@@@@@@@@@@@@+......</tspan>
+    <tspan x="35" dy="17">.........:#@@@@@@@@@@@@@@@@@@@@@@@@@-.....</tspan>
+    <tspan x="35" dy="17">.........-@@@@*==+*#%%%%@@@@@%@@@@@@#.....</tspan>
+    <tspan x="35" dy="17">.........-@@@*...::-==+++++++++*%@@@%.....</tspan>
+    <tspan x="35" dy="17">.........-@@%:.-+##**=------:::-+@@@*.....</tspan>
+    <tspan x="35" dy="17">.........-@@-.*#%@@@@%***#%%%*+-=%@@-.....</tspan>
+    <tspan x="35" dy="17">.........-@*.+###%@@@%***%@@@%%#+%@%......</tspan>
+    <tspan x="35" dy="17">........++#-.:-+%@@@#+::+%@@@###*#@+......</tspan>
+    <tspan x="35" dy="17">........*+=:....-===:...-+#%@#*+=*%:......</tspan>
+    <tspan x="35" dy="17">........*#=-::--=+*:.....:---::.:+*+......</tspan>
+    <tspan x="35" dy="17">........====++*#%@*+***+=-**=-::-+*=......</tspan>
+    <tspan x="35" dy="17">........:==+**%@@#*#@@@@@*#@%**+=##.......</tspan>
+    <tspan x="35" dy="17">.........::+**%@@@%*#######@@%##++-.......</tspan>
+    <tspan x="35" dy="17">...........=**#%**+-----+#%@@%#*+=........</tspan>
+    <tspan x="35" dy="17">...........-*###+===++++=-=*%##=..........</tspan>
+    <tspan x="35" dy="17">............*##*+++*%%%#*++*##+...........</tspan>
+    <tspan x="35" dy="17">...........:+###+===++++==+*#+............</tspan>
+    <tspan x="35" dy="17">..........**+#%%#######***##*.............</tspan>
+    <tspan x="35" dy="17">.........*@*+##%#%%%%%%%%%##=.............</tspan>
+    <tspan x="35" dy="17">.......:*@=-+*###*#%%%%#**#*#*:...........</tspan>
+    <tspan x="35" dy="17">.....:=*%@::+*#####%%%#****=*%###+-:......</tspan>
+    <tspan x="35" dy="17">..-+###%%@-.=######%%%#####-*%%#%@@@#+-...</tspan>
+    <tspan x="35" dy="17">*%@@@@%%@@=..*%#####%###%@*.#@%%#%@@@@%#*+</tspan>
+    <tspan x="35" dy="17">@@@@@@%%@@+...#@%%##%#%%@@:.#@%%%%@@@@@@@%</tspan>
+    <tspan x="35" dy="17">@@@@@@@@@@*....*%%%%%%%@@=..#@%%%@@@@@@@@@</tspan>
+    <tspan x="35" dy="17">@@@@@@@@@@@=-:..-*%%%%%%+.-=#@@%@@@@@@@@@@</tspan>
+  </text>
+
+  <g class="main">
+    <text x="505" y="48" font-weight="700">anuragtummapudi</text>
+    <text class="muted" x="505" y="75">────────────────────────────────────────────────────────────</text>
+
+    <text class="key" x="505" y="108">OS:</text><text class="muted" x="555" y="108">........................</text><text class="value" x="810" y="108">macOS, Linux</text>
+    <text class="key" x="505" y="138">Host:</text><text class="muted" x="575" y="138">.....................</text><text class="value" x="810" y="138">MacBook Air M4</text>
+    <text class="key" x="505" y="168">IDE:</text><text class="muted" x="555" y="168">........................</text><text class="value" x="810" y="168">VS Code, Codex, Claude Code</text>
+
+    <text class="key" x="505" y="218">Languages.Programming:</text><text class="value" x="780" y="218">C++, Java, Python, JavaScript, TypeScript, SQL</text>
+    <text class="key" x="505" y="248">AI.ML:</text><text class="value" x="780" y="248">PyTorch, RAG, Vector Search, STT/TTS</text>
+    <text class="value" x="780" y="278">LLM APIs, Federated Learning</text>
+
+    <text class="key" x="505" y="328">Hobbies.Software:</text><text class="value" x="750" y="328">AI Agents, Building Products</text>
+    <text class="key" x="505" y="358">Hobbies.Other:</text><text class="value" x="750" y="358">Chess, Hackathons</text>
+
+    <text class="muted" x="505" y="403">─ Contact ───────────────────────────────────────────────────</text>
+    <text class="key" x="505" y="433">Email:</text><text class="value" x="660" y="433">anuragtummapudi@gmail.com</text>
+    <text class="key" x="505" y="463">LinkedIn:</text><text class="value" x="660" y="463">/in/anuragtummapudi</text>
+    <text class="key" x="505" y="493">Portfolio:</text><text class="value" x="660" y="493">anuragtummapudi.in</text>
+
+    <text class="muted" x="505" y="538">─ Achievements ──────────────────────────────────────────────</text>
+    <text class="key" x="505" y="568">Hackathon Podiums:</text><text class="green" x="760" y="568">6× 🏆</text>
+    <text class="key" x="505" y="598">Latest:</text><text class="value" x="660" y="598">SysML 2.0 Runner-Up @ IISc Bangalore</text>
+
+    <!-- STATS injected by workflow -->
+  </g>
+</svg>

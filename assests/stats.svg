@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="155" viewBox="0 0 1200 155">
+<style>
+.bg{fill:#0d1117}.t{font:18px "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;fill:#c9d1d9}.m{fill:#8b949e}.k{fill:#d29922}.v{fill:#a5d6ff}.g{fill:#3fb950}
+@media(prefers-color-scheme:light){.bg{fill:#fff}.t{fill:#24292f}.m{fill:#57606a}.k{fill:#9a6700}.v{fill:#0969da}}
+</style>
+<rect class="bg" width="1200" height="155" rx="18"/>
+<g class="t">
+<text class="m" x="35" y="35">─ GitHub Stats ─────────────────────────────────────────────────────────────────────────────────</text>
+<text class="k" x="35" y="75">Repos:</text><text class="v" x="155" y="75">{—}</text>
+<text class="k" x="255" y="75">Contributed:</text><text class="v" x="430" y="75">{—}</text>
+<text class="k" x="555" y="75">Stars Earned:</text><text class="v" x="750" y="75">{—}</text>
+<text class="k" x="880" y="75">Followers:</text><text class="v" x="1040" y="75">{—}</text>
+<text class="k" x="35" y="115">Commits:</text><text class="v" x="155" y="115">{—}</text>
+<text class="k" x="255" y="115">Current Lines of Code:</text><text class="g" x="555" y="115">{—}</text>
+<text class="m" x="35" y="143" font-size="13">Updated automatically by GitHub Actions</text>
+</g></svg>
