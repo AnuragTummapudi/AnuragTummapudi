@@ -1,64 +1,9 @@
 <div align="center">
 
-```text
+<img src="./assets/profile.svg" width="100%" alt="Anurag Tummapudi terminal profile" />
 
-                    ....::...
-                 .-=++**###***+-:
-              .:=***##%%%%%%%%%%#=.
-             .+#%@@@@@@@@@@@@@@%%@#=.
-             =@@@%###%@@@@@@@@@@@@@%-
-             +@@*..:-==++++++++*#@@@+
-             +@#:-+#%%#*===++=--=%@@:
-            .+%:-*#%@@@#+*#@@@%#+#@*
-           .++=..:=*#*+-.:*%@@#*+*@:
-           .*+-:::-=+-..:.:===-::+*-
-           .-==+*#%%**###*++#+=--+*:
-            .:-**%@%#**#####%@#*++=
-              :**##++=====+*#%#*=-.
-               +#**+=+*##*+=+#*-
-             .-=##*+++***+=+**:
-            .*%+*############=
-          .-*#:+*##*##%##***+#+--:.
-     ..-=+*#%# -*#######***#-*%#%@%*=-..
-..:-+#%%@@#%%%. -#########@*.#%##%@@@@%*+=--::
-*##%@@@@@@%%%@:..-#%####%@#..#%%%%%@@@@@@%%###
-%%@@@@@@@@%%@@*::..-*####*.:=#%%%%%%@@@@@@@@%%
-@@@@@@@@@@@@@@* .....-*#*..--%@%%%%%%@@@@@@@@@
-@@@@@@@@@@@@@@%. . .  -*:.:::#@@%%%%@@@@@@@@@@
-@@@@@@@@@@@@@@@-      ....:::%@@@@@%@@@@@@@@@@
-@@@@@@@@@@@@@@@+.    .......:%@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@#.       ....:%@@@@@@@@@@@@@@@@
+<br />
 
-anuragtummapudi
-──────────────────────────────────────────────────────────────────────────────
-OS: ............................. macOS, Linux
-Host: ........................... MacBook Air M4
-IDE: ............................ VS Code, Codex, Claude Code
-
-Languages.Programming: ......... C++, Java, Python, JavaScript, TypeScript, SQL
-AI.ML: .......................... PyTorch, RAG, Vector Search, STT/TTS,
-                                  LLM APIs, Federated Learning
-
-Hobbies.Software: .............. AI Agents, Building Products
-Hobbies.Other: ................. Chess, Hackathons
-
-─ Contact ─────────────────────────────────────────────────────────────────────
-Email: .......................... anuragtummapudi@gmail.com
-LinkedIn: ....................... linkedin.com/in/anuragtummapudi
-GitHub: ......................... github.com/AnuragTummapudi
-Portfolio: ...................... anuragtummapudi.in
-
-─ Achievements ────────────────────────────────────────────────────────────────
-Hackathon Podiums: .............. 6× 🏆
-Latest: ......................... SysML 2.0 Runner-Up @ IISc Bangalore
-
-─ GitHub Stats ────────────────────────────────────────────────────────────────
-<!-- STATS_START -->
-Repos: .......................... Updating automatically
-Commits: ........................ Updating automatically
-Stars: .......................... Updating automatically
-Followers: ...................... Updating automatically
-<!-- STATS_END -->
-```
+<img src="./assets/stats.svg" width="100%" alt="Live GitHub statistics" />
 
 </div>
